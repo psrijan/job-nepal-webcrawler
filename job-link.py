@@ -68,7 +68,7 @@ def iterate_through_pages():
 def write_to_file(df):
     logging.debug("Writing into csv ")
     try:
-        export_to_csv = df.to_csv(r'./test-data/jobnepal.csv')
+        export_to_csv = df.to_csv(r'./test-data/job-link.csv')
         logging.info('Successfully wrote to a csv file')
     except:
         logging.error("Some Error occured while writing to csv file")

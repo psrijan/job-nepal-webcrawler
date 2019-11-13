@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75f65558-cf1b-4256-b3b3-e695e4bf40b3" name="Default Changelist" comment="" />
+    <list default="true" id="75f65558-cf1b-4256-b3b3-e695e4bf40b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/jobnepal.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/job-link.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/jobnepal_additional.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/job-description.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-description.py" beforeDir="false" afterPath="$PROJECT_DIR$/job-description.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-link.py" beforeDir="false" afterPath="$PROJECT_DIR$/job-link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-data/jobnepal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-data/jobnepal_additional.csv" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +24,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TZKWdKWv9MJtLeNJfDzXYCCBxs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -66,5 +80,16 @@
   </component>
   <component name="SvnConfiguration">
     <configuration />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

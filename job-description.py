@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.DEBUG, format='%(name)s - %(levelname)s - %(me
 
 
 def fetch_job_information():
-    df = pd.read_csv("./test-data/jobnepal.csv", index_col=0)
+    df = pd.read_csv("./test-data/job-link.csv", index_col=0)
 
     experience = []
     city = []
@@ -48,7 +48,7 @@ def fetch_job_information():
         .assign(education_background=education) \
         .assign(deadline=application_date)
 
-    export_to_csv = final_dataframe.to_csv(r'./test-data/jobnepal_additional.csv')
+    export_to_csv = final_dataframe.to_csv(r'./test-data/job-description.csv')
 
 
 if __name__ == '__main__':
